@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/NihadGasimli/dadJokes.git/static/css/main.aefe9aa1.css",
+    "main.js": "/NihadGasimli/dadJokes.git/static/js/main.ba1221e2.js",
+    "index.html": "/NihadGasimli/dadJokes.git/index.html",
+    "main.aefe9aa1.css.map": "/NihadGasimli/dadJokes.git/static/css/main.aefe9aa1.css.map",
+    "main.ba1221e2.js.map": "/NihadGasimli/dadJokes.git/static/js/main.ba1221e2.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.aefe9aa1.css",
+    "static/js/main.ba1221e2.js"
+  ]
+}
